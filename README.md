@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-BootStrap-633B84?logo=bootstrap&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 <br>
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:gjk0635@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gjk0635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/gjk0635@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/gjk0635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
