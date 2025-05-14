@@ -34,11 +34,13 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<!--
 <h3 align="center">📚 Studying 📚</h3>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <br>
+-->
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
