@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:gjk0635@gmail.com">
+  <a href="mailto:gjk0635@naver.com">
     <img src="https://img.shields.io/badge/gjk0635@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <a href="mailto:gjk0635@gmail.com">
     <img src="https://img.shields.io/badge/gjk0635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
