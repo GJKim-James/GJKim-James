@@ -1,4 +1,4 @@
-## Hi there 👋
+## Finding Joy In Growth Over Success 💚
 
 <!--
 **GJKim-James/GJKim-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
